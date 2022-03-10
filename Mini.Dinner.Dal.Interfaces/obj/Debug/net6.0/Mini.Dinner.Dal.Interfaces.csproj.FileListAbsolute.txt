@@ -1,0 +1,17 @@
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\bin\Debug\net6.0\Mini.Dinner.Dal.Interfaces.deps.json
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\bin\Debug\net6.0\Mini.Dinner.Dal.Interfaces.dll
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\bin\Debug\net6.0\ref\Mini.Dinner.Dal.Interfaces.dll
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\bin\Debug\net6.0\Mini.Dinner.Dal.Interfaces.pdb
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\bin\Debug\net6.0\Mini.Dinner.Model.dll
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\bin\Debug\net6.0\Dapper.Contrib.dll
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\bin\Debug\net6.0\Mini.Dinner.Model.pdb
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\bin\Debug\net6.0\Dapper.Contrib.xml
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\obj\Debug\net6.0\Mini.Dinner.Dal.Interfaces.csproj.AssemblyReference.cache
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\obj\Debug\net6.0\Mini.Dinner.Dal.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\obj\Debug\net6.0\Mini.Dinner.Dal.Interfaces.AssemblyInfoInputs.cache
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\obj\Debug\net6.0\Mini.Dinner.Dal.Interfaces.AssemblyInfo.cs
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\obj\Debug\net6.0\Mini.Dinner.Dal.Interfaces.csproj.CoreCompileInputs.cache
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\obj\Debug\net6.0\Mini.Dinner.Dal.Interfaces.csproj.CopyComplete
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\obj\Debug\net6.0\Mini.Dinner.Dal.Interfaces.dll
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\obj\Debug\net6.0\ref\Mini.Dinner.Dal.Interfaces.dll
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Interfaces\obj\Debug\net6.0\Mini.Dinner.Dal.Interfaces.pdb

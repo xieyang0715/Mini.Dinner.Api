@@ -1,0 +1,5 @@
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Impl\obj\Debug\net6.0\Mini.Dinner.Dal.Impl.csproj.AssemblyReference.cache
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Impl\obj\Debug\net6.0\Mini.Dinner.Dal.Impl.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Impl\obj\Debug\net6.0\Mini.Dinner.Dal.Impl.AssemblyInfoInputs.cache
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Impl\obj\Debug\net6.0\Mini.Dinner.Dal.Impl.AssemblyInfo.cs
+D:\CodeStore\Mini.Dinner.Api\Mini.Dinner.Dal.Impl\obj\Debug\net6.0\Mini.Dinner.Dal.Impl.csproj.CoreCompileInputs.cache

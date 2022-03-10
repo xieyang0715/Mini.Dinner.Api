@@ -1,0 +1,17 @@
+D:\CodeStore\Mini.Dinner.Api\Services.Common\bin\Debug\net6.0\Mini.Dinner.Services.Common.deps.json
+D:\CodeStore\Mini.Dinner.Api\Services.Common\bin\Debug\net6.0\Mini.Dinner.Services.Common.dll
+D:\CodeStore\Mini.Dinner.Api\Services.Common\bin\Debug\net6.0\ref\Mini.Dinner.Services.Common.dll
+D:\CodeStore\Mini.Dinner.Api\Services.Common\bin\Debug\net6.0\Mini.Dinner.Services.Common.pdb
+D:\CodeStore\Mini.Dinner.Api\Services.Common\bin\Debug\net6.0\Mini.Dinner.Model.dll
+D:\CodeStore\Mini.Dinner.Api\Services.Common\bin\Debug\net6.0\Mini.Dinner.Model.pdb
+D:\CodeStore\Mini.Dinner.Api\Services.Common\obj\Debug\net6.0\Mini.Dinner.Services.Common.csproj.AssemblyReference.cache
+D:\CodeStore\Mini.Dinner.Api\Services.Common\obj\Debug\net6.0\Mini.Dinner.Services.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeStore\Mini.Dinner.Api\Services.Common\obj\Debug\net6.0\Mini.Dinner.Services.Common.AssemblyInfoInputs.cache
+D:\CodeStore\Mini.Dinner.Api\Services.Common\obj\Debug\net6.0\Mini.Dinner.Services.Common.AssemblyInfo.cs
+D:\CodeStore\Mini.Dinner.Api\Services.Common\obj\Debug\net6.0\Mini.Dinner.Services.Common.csproj.CoreCompileInputs.cache
+D:\CodeStore\Mini.Dinner.Api\Services.Common\obj\Debug\net6.0\Mini.Dinner.Services.Common.csproj.CopyComplete
+D:\CodeStore\Mini.Dinner.Api\Services.Common\obj\Debug\net6.0\Mini.Dinner.Services.Common.dll
+D:\CodeStore\Mini.Dinner.Api\Services.Common\obj\Debug\net6.0\ref\Mini.Dinner.Services.Common.dll
+D:\CodeStore\Mini.Dinner.Api\Services.Common\obj\Debug\net6.0\Mini.Dinner.Services.Common.pdb
+D:\CodeStore\Mini.Dinner.Api\Services.Common\bin\Debug\net6.0\Dapper.Contrib.dll
+D:\CodeStore\Mini.Dinner.Api\Services.Common\bin\Debug\net6.0\Dapper.Contrib.xml

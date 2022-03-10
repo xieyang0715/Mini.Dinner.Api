@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "58164b3f-f398-4aac-819e-2189f4392e1d": {
+      "ProjectGuid": "58164b3f-f398-4aac-819e-2189f4392e1d",
+      "DisplayName": "Mini.Dinner.Api",
+      "ColorIndex": 0
+    },
+    "cdbcd8db-9831-4be4-9008-d3c0741142c9": {
+      "ProjectGuid": "cdbcd8db-9831-4be4-9008-d3c0741142c9",
+      "DisplayName": "Mini.Dinner.Services.Common",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "6b145df2-3ed4-4eab-8937-ef1f4ada72f0": {
+      "ProjectGuid": "6b145df2-3ed4-4eab-8937-ef1f4ada72f0",
+      "DisplayName": "Mini.Dinner.Model",
+      "ColorIndex": 2
+    },
+    "2bfea74a-856f-46d5-a95f-53aade2e0e81": {
+      "ProjectGuid": "2bfea74a-856f-46d5-a95f-53aade2e0e81",
+      "DisplayName": "Mini.Dinner.Dal.Impl",
+      "ColorIndex": 3
+    },
+    "942030a6-9d52-49b8-8e05-1841f877a69c": {
+      "ProjectGuid": "942030a6-9d52-49b8-8e05-1841f877a69c",
+      "DisplayName": "Mini.Dinner.Dal.Interfaces",
+      "ColorIndex": 4
+    },
+    "ddb4fdba-9194-44ef-9187-42bdc2fb4b39": {
+      "ProjectGuid": "ddb4fdba-9194-44ef-9187-42bdc2fb4b39",
+      "DisplayName": "Mini.Dinner.Utill",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
